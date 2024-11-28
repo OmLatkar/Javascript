@@ -36,3 +36,5 @@ console.log(z1);
 
 //1=>true
 
+// (=== also checks datatype)
+
